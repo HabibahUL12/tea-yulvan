@@ -1,0 +1,24 @@
+{
+  "name": "tea-yulvan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HabibahUL12/tea-yulvan.git"
+  },
+  "author": "habibah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HabibahUL12/tea-yulvan/issues"
+  },
+  "homepage": "https://github.com/HabibahUL12/tea-yulvan#readme",
+  "dependencies": {
+    "logika-huruf": "^1.0.0",
+    "serangan-fajar": "^1.0.0",
+    "tea-mengakun": "^1.0.0"
+  }
+}
